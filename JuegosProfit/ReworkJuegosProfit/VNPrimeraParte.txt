@@ -1,0 +1,2 @@
+"C:\Users\maquinadefiambre\AppData\Local\Programs\Python\Python39\python.exe" "C:\Users\maquinadefiambre\PycharmProjects\JuegosProfit\ReworkJuegosProfit\PrimeraParte(Base).py"
+pause
